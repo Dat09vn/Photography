@@ -5,6 +5,49 @@ Nhập môn nhiếp ảnh:
 Khẩu độ lớn hơn-->độ sâu trường ảnh nhiều hơn(nét nhiều hơn).VD:chụp ảnh phong cảnh thì khép lại để có được nét nhiều nhất.
 	b)Tốc độ màn chập: thời gian màn chập mở ra cảm biến sẽ ghi thông tin ánh sáng đi vào.Thời gian mở càng lâu càng nhiều ánh sáng đi vào 1/100s.Note:Mở lâu-->ánh sáng đi vào lưu cả chuyển động
 của chủ thể-->phơi sáng từ điểm A-điểm B-->ảnh bị rung rung.Nguyên nhân: khi chụp bị rung tay hoặc chuyển động quá nhanh.
-	c)ISO: tạo ánh sáng: khi chỉnh cả hai thông số kia rồi-->tăng ISO thì tăng ánh sáng.Tăng cao quá ảnh sẽ bị noise(không còn được nét)
+	c)ISO: tạo ánh sáng: khi chỉnh cả hai thông số kia rồi-->tăng ISO thì tăng ánh sáng.Tăng cao quá ảnh sẽ bị noise(không còn được nét).
 	
-	--> Kết hợp cả 3 thông số và những lưu ý: Không nên mở hết khẩu hoặc khép hết. Tốc độ chụp nên thử nhiều lần để biết có phù hợp với chuyển động chủ thể k. VD:tiêu cự:50mm-->tốc 1/100s
+	--> Kết hợp cả 3 thông số và những lưu ý: Không nên mở hết khẩu hoặc khép hết. Tốc độ chụp nên thử nhiều lần để biết có phù hợp với chuyển động chủ thể k. VD:tiêu cự:50mm-->tốc 1/100s.
+	
+2--:Cách sử dụng máy ảnh
+	-Nhấn nhẹ nút chụp để lấy nét.Nếu tối quá hoặc khoảng cách không phù hợp thì sẽ không lấy nét được.
+	-Các bánh xe sẽ chỉnh khẩu độ,tốc độ và ISO.
+	-Vòng xoay chọn chế độ chụp.Basic chọn AUTO.
+	-Quick Menu: Q xem và chỉnh các thông số cơ bản nhất.
+	-AF-ON(auto focus) để chỉnh chọn lấy nét giống như nhấn nửa cò nút chụp.Ngoài ra còn kết hợp các kỹ thuật: back button focus.
+	-Favourite menu to add menu.
+
+3--:White balance
+	-vd:do ánh sáng có thể có màu xanh hoặc vàng -> chỉnh màu để nó cân bằng nhau: căn nhà nhiều ánh sáng vàng--> chọn constant. Buổi chiều có nhiều ánh sáng màu blue-->chọn seady
+	-AWB:auto white balance
+	-CHọn chế độ ảnh RAW
+	-Chọn chế độ Custom white balance
+	
+4--:Các chế độ chụp ảnh
+	-Chế độ Auto:A+ -->tự động lấy nét, ánh sáng
+	-Chế độ Av và Tv: giúp điều chỉnh máy nhanh hơn.
+		+ với Av chỉ cần thay đổi khẩu độ-->tốc độ sẽ tự chỉnh theo để đủ sáng. Phù hợp chụp ánh sáng tốt--> tốc độ sẽ không bị giảm xuống quá chậm khiến cho ảnh bị rung.
+Áp dụng chụp chân dung:mở ảnh xóa phong thoải mái không cần lo về tốc độ.Dùng trong TH muốn điều khiển độ sâu trường ảnh và điều kiện ánh sáng thay đổi:vd chụp chân dung ngoài trời sau đó đi vào trong nhà.
+		+ với Tv ưu tiên tốc độ màn chập-->Phù hợp chụp chủ thể nhanh khi quan tâm đến tốc độ không bị mờ nhòe.Dùng trong TH đang chụp thể thao mà có ánh sáng thay đổi(mây đen kéo đến)
+		+ với P thì tương tự như Auto nhưng có thể điều chỉnh được ISO,chụp liên tục
+	
+	Khi ánh sáng yếu: để ảnh không bị rung thì phải tăng tốc, tuy nhiên nó sẽ bị tối-->tăng ISO 
+	Khi chuyển động tăng tốc lên, muốn lấy nét toàn cảnh thì tăng khẩu lên, vẫn tối thì tăng ISO(chú ý tăng ISO quá cao sẽ gây noise)
+5--:Cách chụp ảnh RAW
+
+6--:Góc chụp:
+	Chụp ảnh xa gần:
+	+ Toàn cảnh cho phép quan sát chủ thể và không gian xung quanh cảm nhận cs nhân vật dựa bố cục sinh hoạt.
+	+ Trung cảnh chủ thể được chụp từ đầu gối hay eo đến đỉnh đầu. Gồm 1 phần hậu cảnh cho phép người xem có cảm nhận ban đầu về nv.CHụp bán thân hoặc nhóm nhỏ.
+	+ Cận cảnh: rộng là lấy từ ngực trở lên.hẹp lấy từ cổ.Người xem cảm nhận sâu sắc hơn tính cách nhân vật.
+	Chụp ảnh cao thấp:
+	+ Góc máy nhìn xuống thấy chủ thể nhỏ bé hơn tầm quan trọng của xung quanh.
+	+ Góc máy từ dưới lên: đặt ống kính ở dưới.Chủ thể trở lên to lơn hơn bình thường.
+	Free style:
+	+ Góc nghiêng cô gái Hà Lan :chủ thể căng thẳng
+	+ Góc đặc tả: đến gần sát chủ thể nên dùng lens tele hoặc macro
+	+ Góc qua vai: miêu tả mqh chủ thể vs sự vật sự việc
+	
+7--:Khoảng cách lấy nét
+	-ft?
+	-vòng xoay tiêu cự có thay đổi khẩu độ theo?
