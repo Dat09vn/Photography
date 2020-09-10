@@ -1,0 +1,10 @@
+Nhập môn nhiếp ảnh:
+1--:Khẩu độ,tốc độ và ISO
+	-Mục đích để điều chỉnh ảnh sáng cho bức ảnh.
+	a)Khẩu độ càng nhỏ-->độ mở lens càng lớn.Khẩu độ kí hiệu F3.5-5.6.Khẩu độ càng nhỏ thì ánh sáng vào càng lớn.Khẩu độ nhỏ-->khả năng xóa phông:tách biệt chủ thể với background.
+Khẩu độ lớn hơn-->độ sâu trường ảnh nhiều hơn(nét nhiều hơn).VD:chụp ảnh phong cảnh thì khép lại để có được nét nhiều nhất.
+	b)Tốc độ màn chập: thời gian màn chập mở ra cảm biến sẽ ghi thông tin ánh sáng đi vào.Thời gian mở càng lâu càng nhiều ánh sáng đi vào 1/100s.Note:Mở lâu-->ánh sáng đi vào lưu cả chuyển động
+của chủ thể-->phơi sáng từ điểm A-điểm B-->ảnh bị rung rung.Nguyên nhân: khi chụp bị rung tay hoặc chuyển động quá nhanh.
+	c)ISO: tạo ánh sáng: khi chỉnh cả hai thông số kia rồi-->tăng ISO thì tăng ánh sáng.Tăng cao quá ảnh sẽ bị noise(không còn được nét)
+	
+	--> Kết hợp cả 3 thông số và những lưu ý: Không nên mở hết khẩu hoặc khép hết. Tốc độ chụp nên thử nhiều lần để biết có phù hợp với chuyển động chủ thể k. VD:tiêu cự:50mm-->tốc 1/100s
